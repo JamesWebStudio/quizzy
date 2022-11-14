@@ -1,0 +1,20 @@
+{ "data": [ 
+
+{ "id": 1, "quiz_id": 2, "question": "What is the Capital of Italy?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-01T10:10:39.000Z", "question_id": 1, "answer": "Napoli", "correct": 0 },
+{ "id": 2, "quiz_id": 2, "question": "What is the Capital of Italy?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-01T10:10:39.000Z", "question_id": 1, "answer": "Milan", "correct": 0 }, 
+{ "id": 3, "quiz_id": 2, "question": "What is the Capital of Italy?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-01T10:10:39.000Z", "question_id": 1, "answer": "Rome", "correct": 1 }, 
+{ "id": 4, "quiz_id": 2, "question": "What is the Capital of Italy?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-01T10:10:39.000Z", "question_id": 1, "answer": "Florence", "correct": 0 }, 
+
+
+{ "id": 5, "quiz_id": 2, "question": "What is the highest mountain in Japan?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-02T10:10:39.000Z", "question_id": 2, "answer": "Fuji", "correct": 1 },
+{ "id": 6, "quiz_id": 2, "question": "What is the highest mountain in Japan?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-02T10:10:39.000Z", "question_id": 2, "answer": "Kilanajaro", "correct": 0 }, 
+{ "id": 7, "quiz_id": 2, "question": "What is the highest mountain in Japan?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-02T10:10:39.000Z", "question_id": 2, "answer": "Etna", "correct": 0 }, 
+{ "id": 8, "quiz_id": 2, "question": "What is the highest mountain in Japan?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-02T10:10:39.000Z", "question_id": 2, "answer": "Everest", "correct": 0 }, 
+
+{ "id": 9, "quiz_id": 2, "question": "What is the largest country in South America?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-02T10:10:39.000Z", "question_id": 3, "answer": "Argentina", "correct": 0 }, 
+{ "id": 10, "quiz_id": 2, "question": "What is the largest country in South America?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-02T10:10:39.000Z", "question_id": 3, "answer": "Chile", "correct": 0 }, 
+{ "id": 11, "quiz_id": 2, "question": "What is the largest country in South America?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-02T10:10:39.000Z", "question_id": 3, "answer": "Brazil", "correct": 1 }, 
+{ "id": 12, "quiz_id": 2, "question": "What is the largest country in South America?", "created_at": "2022-06-01T10:10:39.000Z", "updated_at": "2022-06-02T10:10:39.000Z", "question_id": 3, "answer": "Bolivia", "correct": 0 }
+
+], 
+"status": 200, "statusText": "OK", "headers": { "content-length": "2387", "content-type": "application/json; charset=utf-8" }, "config": { "transitional": { "silentJSONParsing": true, "forcedJSONParsing": true, "clarifyTimeoutError": false }, "transformRequest": [ null ], "transformResponse": [ null ], "timeout": 0, "xsrfCookieName": "XSRF-TOKEN", "xsrfHeaderName": "X-XSRF-TOKEN", "maxContentLength": -1, "maxBodyLength": -1, "env": { "FormData": null }, "headers": { "Accept": "application/json, text/plain, */*" }, "method": "get", "url": "http://localhost:3333/quiz/2" }, "request": "[object XMLHttpRequest]" }
